@@ -1,6 +1,6 @@
 /*
-PROGRAM : HELLO Ngurah
-DATE    : 25 Juni 2020
+PROGRAM : HELLO WORLD
+DATE    : 12 Juli 2020
 OLEH	: I Gusti Ngurah Yudi Handayana
 */
 
