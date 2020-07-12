@@ -1,6 +1,7 @@
 /*
 PROGRAM : HELLO WORLD
 DATE    : 12 Juli 2020
+OLEH	: I Gusti Ngurah Yudi Handayana
 */
 
 #include<stdio.h>
