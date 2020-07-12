@@ -6,9 +6,9 @@ OLEH	: I Gusti Ngurah Yudi Handayana
 
 #include<stdio.h>
 
-int main()
+int main(int argc, char *argv[])
 {
-	printf("Hello C World");
+	printf("Hello Mr %s\n", argv[1]);
 	
 system("PAUSE");
 return 0;
